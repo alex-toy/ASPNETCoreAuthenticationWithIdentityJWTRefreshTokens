@@ -1,4 +1,4 @@
-namespace DotnetAuth
+namespace DotnetAuth.Models
 {
     public class WeatherForecast
     {

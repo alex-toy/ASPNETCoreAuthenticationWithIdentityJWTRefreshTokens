@@ -1,3 +1,4 @@
+using DotnetAuth.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DotnetAuth.Controllers
